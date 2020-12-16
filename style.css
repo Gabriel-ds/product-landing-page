@@ -1,0 +1,44 @@
+*{
+    font-family: 'Merriweather Sans', sans-serif;
+}
+body {
+    max-width: 500px;
+    width: 70%;
+    position: absolute;
+    left: 50%;
+    right: 50%;
+    transform: translate(-50%);
+}
+
+nav {
+    position: relative;
+    right: -90%;
+}
+
+.nav {
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+button {
+    margin-top: 10px;
+}
+.img-icon {
+    position: absolute;
+    left: -25%;
+    width: 90px; 
+}
+
+.features {
+    margin-top: 60px;
+    
+}
